@@ -28,7 +28,7 @@ Update Portfolio Website Configuration.
 
 ## 🌐 Live URL
 
-This is a live URLS [Visit](https://om-chauhan.co.in/)
+This is a live URL [Visit](https://om-chauhan.co.in/)
 
 ## 🔗 Links
 
