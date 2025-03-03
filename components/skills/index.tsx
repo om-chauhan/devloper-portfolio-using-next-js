@@ -24,9 +24,7 @@ export default function Skills() {
             </p>
             <div className="h-[16px]" /> */}
             <p className="font-manrope text-[16px] font-regular text-[#C7C7C7] leading-8">
-              I am always looking to add more skills.Morbi egestas neque eu
-              blandit fermentum. Nulla ac lobortis ligula. Pellentesque ac ex at
-              purus faucibus tristique ut et dolor.
+            I am a passionate Flutter developer, always eager to learn and enhance my skills in building beautiful and efficient mobile apps.
             </p>
             <div className="h-[16px]" />
             {/* Skill Card */}
